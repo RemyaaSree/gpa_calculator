@@ -1,6 +1,5 @@
 # gpa_calculator
 
-# GPA Calculator - Google Colab
 
 ## 📌 Overview
 This Python script calculates the **GPA (Grade Point Average) for students** based on their grades in multiple subjects. The script reads a CSV file containing student grades, maps them to grade points, and computes GPA using a weighted average method.
